@@ -13,6 +13,9 @@ import sixsense.scano.dto.TokenResponseDto
 import sixsense.scano.dto.VerifyOtpDto
 import sixsense.scano.model.Otp
 
+
+
+//Code for testing
 @RestController
 @RequestMapping("/api/v2/authentication")
 class AuthenticationController(
